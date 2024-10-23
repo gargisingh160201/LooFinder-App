@@ -36,12 +36,12 @@ To set up and run the LooFinder app, you will need:
 
 ## Firebase Setup
 ### Step 1: Create Firebase Project
-- **Go to the Firebase Console.
-- **Click Add Project and follow the setup process.
-- **Name your project (e.g., LooFinder), configure project settings, and create the project.
+- Go to the Firebase Console.
+- Click Add Project and follow the setup process.
+- Name your project (e.g., LooFinder), configure project settings, and create the project.
 ### Step 2: Enable Realtime Database
-- **In the Firebase Console, navigate to Build > Realtime Database.
-- **Click Create Database and choose a database location.
-- **Set your database rules to allow read and write access during development:
+- In the Firebase Console, navigate to Build > Realtime Database.
+- Click Create Database and choose a database location.
+- Set your database rules to allow read and write access during development:
 
 
